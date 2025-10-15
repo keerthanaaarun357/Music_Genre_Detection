@@ -1,0 +1,23 @@
+{
+  "dataset_reference": "GTZAN Music Genre Dataset (Ref: [12]). Source: commonly available via Kaggle or the original GTZAN repository. 1000 audio files: 10 genres \u00d7 100 tracks, each 30 seconds long, sample rate 22050 Hz.",
+  "num_genres": 10,
+  "genres": [
+    "blues",
+    "classical",
+    "country",
+    "disco",
+    "hiphop",
+    "jazz",
+    "metal",
+    "pop",
+    "reggae",
+    "rock"
+  ],
+  "num_segments": 9981,
+  "segment_duration_seconds": 3,
+  "mel_shape": [
+    128,
+    130,
+    1
+  ]
+}
